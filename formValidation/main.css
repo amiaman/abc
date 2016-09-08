@@ -1,0 +1,12 @@
+table {
+     background-color: #cccccc;
+     width: 400px;;
+     height: 200px;
+	 border-collapse: collapse;
+}
+#center{
+	padding: 10px;
+	text-align: center;
+}
+
+
